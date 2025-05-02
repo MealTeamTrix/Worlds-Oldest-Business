@@ -11,11 +11,13 @@ businesses.csv	Contains information about long-established businesses including 
 new_businesses.csv	Supplementary dataset with additional older businesses to enrich analysis.
 countries.csv	Maps country codes to full country names and continents.
 categories.csv	Maps business category codes to descriptive names.
+
 🔍 Key Questions Answered
 
 What are the oldest businesses on each continent?
 Which countries are missing historical business data?
 Which industries have historically lasted the longest on each continent?
+
 📊 Analysis Workflow
 
 The notebook walks through the following major steps:
